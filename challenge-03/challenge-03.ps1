@@ -1,4 +1,4 @@
-﻿##Challenge 1 
+﻿##Challenge 3 
 
 ##Variables
 $resourceGroupName = "0xpwnlab"
